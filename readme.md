@@ -4,7 +4,7 @@ An interactive Ben 10-themed fan website that brings childhood nostalgia to life
 
 ## ⚡ Try it Live
 
-(https://ad1tyac0des.github.io/Project-Ben-10/)
+(https://bentenweb.vercel.app/)
 
 ## ✨ Features
 
@@ -22,15 +22,4 @@ An interactive Ben 10-themed fan website that brings childhood nostalgia to life
 
 ## 👥 Team
 
-- [Aditya Singh](https://github.com/ad1tyac0des)
-- [Aaradhya Singh](https://github.com/aaryaxz)
-
-## 🌟 Credits
-
-Inspired by the world of Ben 10, a Cartoon Network classic. This project is a creative fan-made tribute built as part of SkillVarz 1.0 (Round 1) Hackathon organized by Gravity Coding x SkillVarz.
-
-## 📝 License
-
-[![MIT License](https://img.shields.io/badge/LICENSE-MIT-E41B17.svg?style=for-the-badge&labelColor=FFC400&color=E41B17&logoColor=white)](LICENSE)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Abuhurera](https://github.com/Abuhurera00)
